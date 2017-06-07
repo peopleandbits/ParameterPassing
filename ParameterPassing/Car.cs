@@ -7,6 +7,11 @@
             return 0;
         }
 
+        public int OneDrive(int a)
+        {
+            return 0;
+        }
+
         public int TwoDrive(int a, int b)
         {
             return 0;
